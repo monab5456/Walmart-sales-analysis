@@ -56,11 +56,11 @@ In this project, the objective is to deep dive into the walmart dataset to featu
 ## Visualizations Preview
 | **Homepage** | **Overview** |
 | :---: | :---: |
-|  |  |
+| <img width="1452" height="821" alt="Screenshot 2026-08-30 071554 wm home" src="https://github.com/user-attachments/assets/13807161-43b1-4ab3-b7c2-dd870257c85d" /> | <img width="1615" height="803" alt="Screenshot 2026-08-30 071741 wm overview" src="https://github.com/user-attachments/assets/48ea21a5-8e0a-4422-92d5-ecea293d1ef5" /> |
 
 | **Revenue** | **Orders** | **Decline Rate** |
 | :---: | :---: | :---: |
-|  |||
+| <img width="1452" height="811" alt="Screenshot 2026-08-30 071837 wa reve" src="https://github.com/user-attachments/assets/021aa015-022e-41fa-9aa6-9f1180696f27" /> | <img width="1367" height="808" alt="Screenshot 2026-08-30 072039 wa ord" src="https://github.com/user-attachments/assets/283371c2-2435-4de2-a26f-7bbd5da499e6" /> | <img width="1457" height="817" alt="Screenshot 2026-08-30 072124 wm dr" src="https://github.com/user-attachments/assets/cf9f12e4-9b8e-4db7-aefa-2ba0bdb6c018" /> |
 
 -----
 
