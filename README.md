@@ -71,8 +71,22 @@ Based on the insights a business can do
   - Branch specific strategies are required based on the insights to address the unique demand through loyalty program for older customer and new exciting offers for the new customers or incoming customers.
   - capitalize seasonal trends especially during peak months to maximize the sales and customer acquisation through seasonal promotions and advertising.
   - Optimization of stuff,supporting personals and resources for each branch during peak times will enhance the customer experience.
-
-  - Prioritize declining branches by diagnosing whether the revenue loss is driven by lower transaction volume or lower revenue per transaction. Branches with stable transaction volume but sharp revenue declines should receive immediate category, pricing and product-mix analysis, while branches experiencing declines in both revenue and transactions should focus on demand generation and customer retention.
   - Prioritize declining branches by identifying the revenue loss pattern whether it's driven by low sales volume or low revenue per transaction. The category, pricing, discount and product mix analysis insights should by used to improve their growth rate.
 
 ----
+
+## Summary
+
+The analysis found that Branch **WALM009** stands out as the strongest financial performer, generating the highest revenue and profit.differences
+in profit margins are relatively small, suggesting that sales volume is a more important driver of profit than margin variation. City level
+analysis adds another layer by connecting revenue performance with customer satisfaction, helps to distinguish strong markets. Time series
+analysis highlights customers purchasing patterns and operational demand, while the year over year analysis helps to identify whether revenue is
+strengthening or  declining. Together the SQL analysis and Power BI dashboard turn raw transaction data into a actionable practical view of where
+Walmart is performing strongly, drivers of the performance and where management can put efforts to protect revenue and improve growth.
+
+-----
+
+Author
+
+Abhisek Mondal
+  - email: abhisekmondal456@gmail.com
